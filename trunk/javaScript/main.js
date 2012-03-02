@@ -47,7 +47,7 @@ function keyUpHandler(e)
 
 function getKeyCode(e)
 {
-	if (navigator.appName == "Microsoft Internet Explorer")
+	if (isIE)
 		return event.keyCode; 
 	return e.which;
 }
