@@ -1,0 +1,1 @@
+"Top Gear / Lotus turbo challenge" -like JavaScript racing game. Tracks are randomly generated using sine wave interference
